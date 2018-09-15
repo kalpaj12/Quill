@@ -1,3 +1,5 @@
+//@Author: kalpaj12
+
 import javafx.application.*;
 import javafx.stage.Stage;
 import javafx.stage.Screen;
@@ -63,4 +65,5 @@ import javafx.beans.property.*;
 	}
 
 }
+//Resources at
 //https://docs.oracle.com/javase/8/javafx/api/javafx/scene/media/MediaPlayer.html
